@@ -1,0 +1,1 @@
+/home/yusuf/AndroidStudioProjects/VisionProject/opencv/build/intermediates/cxx/Debug/2e535m4z/obj/x86

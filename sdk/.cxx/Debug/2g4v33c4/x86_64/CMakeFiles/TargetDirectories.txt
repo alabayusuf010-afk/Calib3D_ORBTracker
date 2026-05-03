@@ -1,0 +1,3 @@
+/home/yusuf/Desktop/2ndSemester/Lab0_Lab1/VisionProject/OpenCV-android-sdk/sdk/.cxx/Debug/2g4v33c4/x86_64/CMakeFiles/opencv_jni_shared.dir
+/home/yusuf/Desktop/2ndSemester/Lab0_Lab1/VisionProject/OpenCV-android-sdk/sdk/.cxx/Debug/2g4v33c4/x86_64/CMakeFiles/edit_cache.dir
+/home/yusuf/Desktop/2ndSemester/Lab0_Lab1/VisionProject/OpenCV-android-sdk/sdk/.cxx/Debug/2g4v33c4/x86_64/CMakeFiles/rebuild_cache.dir

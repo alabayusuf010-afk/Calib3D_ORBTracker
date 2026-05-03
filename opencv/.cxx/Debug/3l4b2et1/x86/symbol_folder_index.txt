@@ -1,0 +1,1 @@
+/home/yusuf/AndroidStudioProjects/VisionProject/sdk/build/intermediates/cxx/Debug/3l4b2et1/obj/x86

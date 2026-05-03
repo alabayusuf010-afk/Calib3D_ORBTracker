@@ -1,0 +1,31 @@
+plugins {
+    id 'com.android.library'
+}
+
+android {
+    namespace 'org.opencv'
+    compileSdk 35
+
+    defaultConfig {
+        minSdk 21
+    }
+
+    buildFeatures {
+        buildConfig true
+        androidResources true
+    }
+
+    sourceSets {
+        main {
+            java.srcDirs = ['java/src']
+            res.srcDirs = ['java/res']
+            manifest.srcFile 'java/AndroidManifest.xml'
+            jniLibs.srcDirs = ['native/libs']
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
